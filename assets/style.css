@@ -96,7 +96,7 @@ p {
     padding: 5px;
     transition-property: all
     transition-delay: 2s;
-    transition-duration: .5s;
+    transition-duration:.5s;
     transition-timing-function: ease-in
 }
 
