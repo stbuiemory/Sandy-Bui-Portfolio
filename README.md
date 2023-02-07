@@ -19,7 +19,7 @@ https://stbuiemory.github.io/Sandy-Bui-Portfolio/
 ```sh
 - Below is a screenshot of my portfolio.
 ```
-![Screenshot of the final product](assets\screenshot_sandy_portfolio.png)
+![Screenshot of the final product](./assets/screenshot_sandy_portfolio.png)
 
 ## Testing
 
