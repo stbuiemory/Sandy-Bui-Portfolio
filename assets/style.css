@@ -58,6 +58,11 @@ p {
     overflow: hidden;
 }
 
+.flex-box2 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
 .flex-container {
     background-color: #1a94acae;
     display: flex;
@@ -92,12 +97,15 @@ p {
 .work-examples {
     display: flex;
     align-items: center;
-    width: 50%;  
+    /* width: 50%;   */
     padding: 5px;
-    transition-property: all
+    transition-property: all;
     transition-delay: 2s;
-    transition-duration:.5s;
-    transition-timing-function: ease-in
+    transition-duration: .5s;
+    transition-timing-function: ease-in;
+    width: 33.33%; 
+    box-sizing: border-box; 
+    padding: 10px; 
 }
 
 .work-examples:hover {
